@@ -103,6 +103,8 @@ the best method will be to determine this availability. Ensure you look
 over the API response or mocks carefully, and consult other resources
 (see below)
 
+*Hint: You will want to start at `coreServices`*
+
 Once you have shown this availability, your task is complete.
 
 ---
@@ -139,7 +141,8 @@ solution must use our proper APIs.
   framework like Bootstrap or any Material UI base if you wish, or you
   can reference our own sites
 * Pay attention to the business groups provided. You may use any that 
-  you wish, however your presentation should match.
+  you wish, however your presentation should match. Some business groups
+  are also much easier to work with than others due to data complexity.
 * If you wish to go above and beyond, think about what other data you
   could present to the customer that is genuinely relevant - look at 
   what adds value, perhaps there's another layer you could expand upon?
