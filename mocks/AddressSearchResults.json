@@ -1,0 +1,38 @@
+{
+  "addresses": [
+    {
+      "locationId": "F5B92828-CB5C-4C3B-ABE0-CF397EAE729F",
+      "coreLogicTui": null,
+      "addressText": "20 MEAD STREET, AVONDALE, AUCKLAND 1026",
+      "floor": "",
+      "buildingName": "",
+      "flatNumber": "",
+      "streetNumber": "20",
+      "streetNumberSubDescription": "",
+      "streetName": "MEAD",
+      "streetType": "STREET",
+      "streetDirection": "",
+      "suburb": "AVONDALE",
+      "city": "AUCKLAND",
+      "postCode": "1026",
+      "ufbRegion": null
+    },
+    {
+      "locationId": "6234406f-6b68-44e3-82e4-7bae876631dd",
+      "coreLogicTui": null,
+      "addressText": "20A MEAD STREET, AVONDALE, AUCKLAND 1026",
+      "floor": "",
+      "buildingName": "",
+      "flatNumber": "",
+      "streetNumber": "20",
+      "streetNumberSubDescription": "A",
+      "streetName": "MEAD",
+      "streetType": "STREET",
+      "streetDirection": "",
+      "suburb": "AVONDALE",
+      "city": "AUCKLAND",
+      "postCode": "1026",
+      "ufbRegion": null
+    }
+  ]
+}

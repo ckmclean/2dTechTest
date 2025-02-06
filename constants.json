@@ -1,0 +1,9 @@
+{
+  "addressResultsPagination": 5,
+  "allowVoiceNoFeatures": false,
+  "availableBillFrequencies": ["Monthly"],
+  "businessGroup": "Slingshot",
+  "minimumContractLength": 12,
+  "preferredCoreProductBroadbandCategory": "UFB1000/500",
+  "salesChannel": "OnlineSignup"
+}

@@ -1,0 +1,1231 @@
+{
+  "locationId": "f5b92828-cb5c-4c3b-abe0-cf397eae729f",
+  "address": {
+    "locationId": "f5b92828-cb5c-4c3b-abe0-cf397eae729f",
+    "coreLogicTui": "1001494196",
+    "addressText": "20 MEAD STREET, AVONDALE, AUCKLAND 1026",
+    "floor": null,
+    "buildingName": null,
+    "flatNumber": null,
+    "streetNumber": "20",
+    "streetNumberSubDescription": null,
+    "streetName": "MEAD",
+    "streetType": "STREET",
+    "streetDirection": null,
+    "suburb": "AVONDALE",
+    "city": "AUCKLAND",
+    "postCode": "1026",
+    "ufbRegion": "Auckland"
+  },
+  "propertySummary": {
+    "floorAreaSqm": 242,
+    "aerialImageUrl": "https://maps.googleapis.com/maps/api/streetview?size=640x480&location=20%20MEAD%20STREET,%20AVONDALE,%20AUCKLAND,1026,NEW%20ZEALAND&fov=90&client=gme-datainsight&signature=U6nkXMcRB5aibaLr93cDVOeFm2o=",
+    "boundaryImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=20%20MEAD%20STREET,%20AVONDALE,%20AUCKLAND,%20NEW%20ZEALAND,1026&size=640x480&maptype=roadmap&markers=icon:https://tinyurl.com/z49gf7e%7C20%20MEAD%20STREET,%20AVONDALE,%20AUCKLAND,%20NEW%20ZEALAND,1026&client=gme-datainsight&signature=h2NCjPKxhkYcQPn9woZYkDnca88="
+  },
+  "coreServices": [
+    {
+      "coreServiceKey": "Bundle",
+      "coreProducts": [
+        {
+          "coreProductKey": "NGA1000/500_SIPONT",
+          "coreProductDescription": "OnNet Voice over UFB 1000/500Mbps Broadband",
+          "coreProductBroadbandCategory": "UFB1000/500",
+          "coreProductBroadbandSupplyProvider": "ChorusNGA",
+          "coreProductBroadbandCategoryGroup": "UFB",
+          "coreProductBroadbandProductType": "Primary",
+          "coreProductBroadbandAverageSpeeds": {
+            "averageSpeedDownMbps": 882,
+            "averageSpeedUpMbps": 495,
+            "averageSpeedSource": "MBNZ Report December 2024"
+          },
+          "coreProductVoiceCategory": "SIPONT",
+          "coreProductCharges": [
+            {
+              "chargeType": "OpenTermContract",
+              "billingDescription": "Connection Fee",
+              "chargeExcludingGst": 86.0870,
+              "chargeIncludingGst": 99.0001,
+              "minContractLength": 0,
+              "maxContractLength": 0
+            }
+          ],
+          "coreProductComponents": [
+            {
+              "coreProductComponentService": "Internet",
+              "coreProductComponentPlans": [
+                {
+                  "planKey": "2d_access_NGA1000/500_SIPONT_U_Nov2024",
+                  "planCategory": null,
+                  "planDescription": "Ultimate Unlimited Fibre Broadband with landline",
+                  "charges": [
+                    {
+                      "chargeExcludingGst": 95.6522,
+                      "chargeIncludingGst": 110.00,
+                      "billFrequency": "Monthly",
+                      "unit": "Month"
+                    },
+                    {
+                      "chargeExcludingGst": 22.0131,
+                      "chargeIncludingGst": 25.32,
+                      "billFrequency": "Weekly",
+                      "unit": "Week"
+                    },
+                    {
+                      "chargeExcludingGst": 44.0262,
+                      "chargeIncludingGst": 50.63,
+                      "billFrequency": "Fortnightly",
+                      "unit": "Fortnight"
+                    }
+                  ],
+                  "dataCap": null,
+                  "dataBanking": false,
+                  "dataRollover": false,
+                  "minimumContractTerm": 0,
+                  "segment": null,
+                  "defaultIpHandling": "Cgnat",
+                  "backhaulRealm": null,
+                  "hasUnlimitedData": false,
+                  "dataMbLimit": null,
+                  "hasUnlimitedMinutes": false,
+                  "minutesLimit": null,
+                  "hasUnlimitedText": false,
+                  "textLimit": null,
+                  "marketingDetails": {
+                    "title": "Fibre",
+                    "features": {
+                      "technology": "Unlimited Fibre Broadband",
+                      "averageSpeed": "882/495Mbps peak time average speeds"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "coreProductComponentService": "Voice",
+              "coreProductComponentPlans": [
+                {
+                  "planKey": "2d_SIPONT_voice_nofeatures",
+                  "planCategory": null,
+                  "planDescription": "Home Phone",
+                  "charges": [
+                    {
+                      "chargeExcludingGst": 0.0000,
+                      "chargeIncludingGst": 0.00,
+                      "billFrequency": "Monthly",
+                      "unit": "Month"
+                    },
+                    {
+                      "chargeExcludingGst": 0.0000,
+                      "chargeIncludingGst": 0.00,
+                      "billFrequency": "Weekly",
+                      "unit": "Week"
+                    },
+                    {
+                      "chargeExcludingGst": 0.0000,
+                      "chargeIncludingGst": 0.00,
+                      "billFrequency": "Fortnightly",
+                      "unit": "Fortnight"
+                    }
+                  ],
+                  "dataCap": null,
+                  "dataBanking": null,
+                  "dataRollover": null,
+                  "minimumContractTerm": 0,
+                  "segment": null,
+                  "defaultIpHandling": null,
+                  "backhaulRealm": null,
+                  "hasUnlimitedData": false,
+                  "dataMbLimit": null,
+                  "hasUnlimitedMinutes": false,
+                  "minutesLimit": null,
+                  "hasUnlimitedText": false,
+                  "textLimit": null,
+                  "marketingDetails": null
+                },
+                {
+                  "planKey": "2d_SIPONT_voice_features",
+                  "planCategory": null,
+                  "planDescription": "Home Phone Plus",
+                  "charges": [
+                    {
+                      "chargeExcludingGst": 13.0435,
+                      "chargeIncludingGst": 15.00,
+                      "billFrequency": "Monthly",
+                      "unit": "Month"
+                    },
+                    {
+                      "chargeExcludingGst": 3.0000,
+                      "chargeIncludingGst": 3.45,
+                      "billFrequency": "Weekly",
+                      "unit": "Week"
+                    },
+                    {
+                      "chargeExcludingGst": 6.0000,
+                      "chargeIncludingGst": 6.90,
+                      "billFrequency": "Fortnightly",
+                      "unit": "Fortnight"
+                    }
+                  ],
+                  "dataCap": null,
+                  "dataBanking": null,
+                  "dataRollover": null,
+                  "minimumContractTerm": 0,
+                  "segment": null,
+                  "defaultIpHandling": null,
+                  "backhaulRealm": null,
+                  "hasUnlimitedData": false,
+                  "dataMbLimit": null,
+                  "hasUnlimitedMinutes": false,
+                  "minutesLimit": null,
+                  "hasUnlimitedText": false,
+                  "textLimit": null,
+                  "marketingDetails": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "coreProductKey": "NGA50/10_SIPONT",
+          "coreProductDescription": "OnNet Voice over UFB 50/10Mbps Broadband",
+          "coreProductBroadbandCategory": "UFB50/10",
+          "coreProductBroadbandSupplyProvider": "ChorusNGA",
+          "coreProductBroadbandCategoryGroup": "UFB",
+          "coreProductBroadbandProductType": "Primary",
+          "coreProductBroadbandAverageSpeeds": {
+            "averageSpeedDownMbps": 50,
+            "averageSpeedUpMbps": 10,
+            "averageSpeedSource": "Internal"
+          },
+          "coreProductVoiceCategory": "SIPONT",
+          "coreProductCharges": [
+            {
+              "chargeType": "OpenTermContract",
+              "billingDescription": "Connection Fee",
+              "chargeExcludingGst": 86.0870,
+              "chargeIncludingGst": 99.0001,
+              "minContractLength": 0,
+              "maxContractLength": 0
+            }
+          ],
+          "coreProductComponents": [
+            {
+              "coreProductComponentService": "Internet",
+              "coreProductComponentPlans": [
+                {
+                  "planKey": "2d_access_NGA50/10_SIPONT_U_Nov2024",
+                  "planCategory": null,
+                  "planDescription": "Unlimited Fibre Starter Broadband with Landline",
+                  "charges": [
+                    {
+                      "chargeExcludingGst": 56.5217,
+                      "chargeIncludingGst": 65.00,
+                      "billFrequency": "Monthly",
+                      "unit": "Month"
+                    },
+                    {
+                      "chargeExcludingGst": 13.0077,
+                      "chargeIncludingGst": 14.96,
+                      "billFrequency": "Weekly",
+                      "unit": "Week"
+                    },
+                    {
+                      "chargeExcludingGst": 26.0155,
+                      "chargeIncludingGst": 29.92,
+                      "billFrequency": "Fortnightly",
+                      "unit": "Fortnight"
+                    }
+                  ],
+                  "dataCap": null,
+                  "dataBanking": false,
+                  "dataRollover": false,
+                  "minimumContractTerm": 0,
+                  "segment": null,
+                  "defaultIpHandling": "Cgnat",
+                  "backhaulRealm": null,
+                  "hasUnlimitedData": false,
+                  "dataMbLimit": null,
+                  "hasUnlimitedMinutes": false,
+                  "minutesLimit": null,
+                  "hasUnlimitedText": false,
+                  "textLimit": null,
+                  "marketingDetails": {
+                    "title": "Fibre Starter",
+                    "features": {
+                      "technology": "Unlimited Fibre Broadband",
+                      "averageSpeed": "50/10Mbps peak time average speeds"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "coreProductComponentService": "Voice",
+              "coreProductComponentPlans": [
+                {
+                  "planKey": "2d_SIPONT_voice_nofeatures",
+                  "planCategory": null,
+                  "planDescription": "Home Phone",
+                  "charges": [
+                    {
+                      "chargeExcludingGst": 0.0000,
+                      "chargeIncludingGst": 0.00,
+                      "billFrequency": "Monthly",
+                      "unit": "Month"
+                    },
+                    {
+                      "chargeExcludingGst": 0.0000,
+                      "chargeIncludingGst": 0.00,
+                      "billFrequency": "Weekly",
+                      "unit": "Week"
+                    },
+                    {
+                      "chargeExcludingGst": 0.0000,
+                      "chargeIncludingGst": 0.00,
+                      "billFrequency": "Fortnightly",
+                      "unit": "Fortnight"
+                    }
+                  ],
+                  "dataCap": null,
+                  "dataBanking": null,
+                  "dataRollover": null,
+                  "minimumContractTerm": 0,
+                  "segment": null,
+                  "defaultIpHandling": null,
+                  "backhaulRealm": null,
+                  "hasUnlimitedData": false,
+                  "dataMbLimit": null,
+                  "hasUnlimitedMinutes": false,
+                  "minutesLimit": null,
+                  "hasUnlimitedText": false,
+                  "textLimit": null,
+                  "marketingDetails": null
+                },
+                {
+                  "planKey": "2d_SIPONT_voice_features",
+                  "planCategory": null,
+                  "planDescription": "Home Phone Plus",
+                  "charges": [
+                    {
+                      "chargeExcludingGst": 13.0435,
+                      "chargeIncludingGst": 15.00,
+                      "billFrequency": "Monthly",
+                      "unit": "Month"
+                    },
+                    {
+                      "chargeExcludingGst": 3.0000,
+                      "chargeIncludingGst": 3.45,
+                      "billFrequency": "Weekly",
+                      "unit": "Week"
+                    },
+                    {
+                      "chargeExcludingGst": 6.0000,
+                      "chargeIncludingGst": 6.90,
+                      "billFrequency": "Fortnightly",
+                      "unit": "Fortnight"
+                    }
+                  ],
+                  "dataCap": null,
+                  "dataBanking": null,
+                  "dataRollover": null,
+                  "minimumContractTerm": 0,
+                  "segment": null,
+                  "defaultIpHandling": null,
+                  "backhaulRealm": null,
+                  "hasUnlimitedData": false,
+                  "dataMbLimit": null,
+                  "hasUnlimitedMinutes": false,
+                  "minutesLimit": null,
+                  "hasUnlimitedText": false,
+                  "textLimit": null,
+                  "marketingDetails": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "coreServiceKey": "Naked",
+      "coreProducts": [
+        {
+          "coreProductKey": "NGA1000/500",
+          "coreProductDescription": "Naked  ChorusNGA UFB 1000/500Mbps Broadband",
+          "coreProductBroadbandCategory": "UFB1000/500",
+          "coreProductBroadbandSupplyProvider": "ChorusNGA",
+          "coreProductBroadbandCategoryGroup": "UFB",
+          "coreProductBroadbandProductType": "Primary",
+          "coreProductBroadbandAverageSpeeds": {
+            "averageSpeedDownMbps": 882,
+            "averageSpeedUpMbps": 495,
+            "averageSpeedSource": "MBNZ Report December 2024"
+          },
+          "coreProductVoiceCategory": "NoVoice",
+          "coreProductCharges": [
+            {
+              "chargeType": "OpenTermContract",
+              "billingDescription": "Connection Fee",
+              "chargeExcludingGst": 86.0870,
+              "chargeIncludingGst": 99.0001,
+              "minContractLength": 0,
+              "maxContractLength": 0
+            }
+          ],
+          "coreProductComponents": [
+            {
+              "coreProductComponentService": "Internet",
+              "coreProductComponentPlans": [
+                {
+                  "planKey": "2d_access_NGA1000/500_U_Nov2024",
+                  "planCategory": null,
+                  "planDescription": "Ultimate Unlimited Fibre Broadband",
+                  "charges": [
+                    {
+                      "chargeExcludingGst": 95.6522,
+                      "chargeIncludingGst": 110.00,
+                      "billFrequency": "Monthly",
+                      "unit": "Month"
+                    },
+                    {
+                      "chargeExcludingGst": 22.0131,
+                      "chargeIncludingGst": 25.32,
+                      "billFrequency": "Weekly",
+                      "unit": "Week"
+                    },
+                    {
+                      "chargeExcludingGst": 44.0262,
+                      "chargeIncludingGst": 50.63,
+                      "billFrequency": "Fortnightly",
+                      "unit": "Fortnight"
+                    }
+                  ],
+                  "dataCap": null,
+                  "dataBanking": false,
+                  "dataRollover": false,
+                  "minimumContractTerm": 0,
+                  "segment": null,
+                  "defaultIpHandling": "Cgnat",
+                  "backhaulRealm": null,
+                  "hasUnlimitedData": false,
+                  "dataMbLimit": null,
+                  "hasUnlimitedMinutes": false,
+                  "minutesLimit": null,
+                  "hasUnlimitedText": false,
+                  "textLimit": null,
+                  "marketingDetails": {
+                    "title": "Fibre",
+                    "features": {
+                      "technology": "Unlimited Fibre Broadband",
+                      "averageSpeed": "882/495Mbps peak time average speeds"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "coreProductComponentService": "Voice",
+              "coreProductComponentPlans": []
+            }
+          ]
+        },
+        {
+          "coreProductKey": "WVS0",
+          "coreProductDescription": "OffNet Naked VDSL Broadband",
+          "coreProductBroadbandCategory": "VDSL",
+          "coreProductBroadbandSupplyProvider": "TelecomWSA",
+          "coreProductBroadbandCategoryGroup": "xDSL",
+          "coreProductBroadbandProductType": null,
+          "coreProductBroadbandAverageSpeeds": {
+            "averageSpeedDownMbps": 43,
+            "averageSpeedUpMbps": 12,
+            "averageSpeedSource": "MBNZ Report December 2024"
+          },
+          "coreProductVoiceCategory": "NoVoice",
+          "coreProductCharges": [
+            {
+              "chargeType": "OpenTermContract",
+              "billingDescription": "Connection Fee",
+              "chargeExcludingGst": 86.0870,
+              "chargeIncludingGst": 99.0001,
+              "minContractLength": 0,
+              "maxContractLength": 0
+            }
+          ],
+          "coreProductComponents": [
+            {
+              "coreProductComponentService": "Internet",
+              "coreProductComponentPlans": [
+                {
+                  "planKey": "2d_access_WVS0_U_Nov2024",
+                  "planCategory": null,
+                  "planDescription": "Unlimited VDSL Broadband",
+                  "charges": [
+                    {
+                      "chargeExcludingGst": 86.0870,
+                      "chargeIncludingGst": 99.00,
+                      "billFrequency": "Monthly",
+                      "unit": "Month"
+                    },
+                    {
+                      "chargeExcludingGst": 19.8118,
+                      "chargeIncludingGst": 22.78,
+                      "billFrequency": "Weekly",
+                      "unit": "Week"
+                    },
+                    {
+                      "chargeExcludingGst": 39.6236,
+                      "chargeIncludingGst": 45.57,
+                      "billFrequency": "Fortnightly",
+                      "unit": "Fortnight"
+                    }
+                  ],
+                  "dataCap": null,
+                  "dataBanking": false,
+                  "dataRollover": false,
+                  "minimumContractTerm": 0,
+                  "segment": null,
+                  "defaultIpHandling": "Cgnat",
+                  "backhaulRealm": null,
+                  "hasUnlimitedData": false,
+                  "dataMbLimit": null,
+                  "hasUnlimitedMinutes": false,
+                  "minutesLimit": null,
+                  "hasUnlimitedText": false,
+                  "textLimit": null,
+                  "marketingDetails": {
+                    "title": "Unlimited",
+                    "features": {
+                      "technology": "Unlimited VDSL Broadband",
+                      "averageSpeed": "43/12Mbps peak time average speeds"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "coreProductComponentService": "Voice",
+              "coreProductComponentPlans": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "additionalProducts": [
+    {
+      "additionalProductService": "mobile2_linerental",
+      "additionalProductName": "Mobile",
+      "serviceRestricted": false,
+      "supportedServices": [],
+      "additionalProductPlans": [
+        {
+          "planKey": "1-13KHMK",
+          "planDescription": "Unlimited",
+          "charges": [
+            {
+              "chargeExcludingGst": 69.5652,
+              "chargeIncludingGst": 80.00,
+              "billFrequency": "Monthly",
+              "unit": "Month"
+            }
+          ],
+          "freeSecondsPerCall": null,
+          "freeSecondsPerPeriod": null,
+          "destinations": [],
+          "wifiRecommendations": [],
+          "dataCap": 2147483647,
+          "minutesLimit": 2147483647,
+          "textLimit": 2147483647,
+          "groupTag": "2D_Unlimited",
+          "isGroupLeader": true,
+          "maxGroupMemberCount": 4,
+          "dataCategory": "Unlimited",
+          "isGroupMember": false,
+          "isStandalone": false,
+          "minimumContractTerm": 0,
+          "planDuration": null,
+          "dataCapDescription": null,
+          "callingMinsDescription": null,
+          "textsDescription": null,
+          "additionalDescriptions": [],
+          "supportedPlanKeys": [],
+          "marketingDetails": null,
+          "companionTag": null,
+          "supportedCompanionTags": [
+            "wearable_companion"
+          ]
+        },
+        {
+          "planKey": "1-13KHNS",
+          "planDescription": "Unlimited Group Plan",
+          "charges": [
+            {
+              "chargeExcludingGst": 34.7826,
+              "chargeIncludingGst": 40.00,
+              "billFrequency": "Monthly",
+              "unit": "Month"
+            }
+          ],
+          "freeSecondsPerCall": null,
+          "freeSecondsPerPeriod": null,
+          "destinations": [],
+          "wifiRecommendations": [],
+          "dataCap": 2147483647,
+          "minutesLimit": 2147483647,
+          "textLimit": 2147483647,
+          "groupTag": "2D_Unlimited",
+          "isGroupLeader": false,
+          "maxGroupMemberCount": null,
+          "dataCategory": "Unlimited",
+          "isGroupMember": true,
+          "isStandalone": false,
+          "minimumContractTerm": 0,
+          "planDuration": null,
+          "dataCapDescription": null,
+          "callingMinsDescription": null,
+          "textsDescription": null,
+          "additionalDescriptions": [],
+          "supportedPlanKeys": [],
+          "marketingDetails": null,
+          "companionTag": null,
+          "supportedCompanionTags": [
+            "wearable_companion"
+          ]
+        }
+      ]
+    },
+    {
+      "additionalProductService": "static_ip",
+      "additionalProductName": "Static IP",
+      "serviceRestricted": true,
+      "supportedServices": [
+        "Internet"
+      ],
+      "additionalProductPlans": [
+        {
+          "planKey": "2d_StaticIP",
+          "planDescription": "Static IP",
+          "charges": [
+            {
+              "chargeExcludingGst": 8.6957,
+              "chargeIncludingGst": 10.00,
+              "billFrequency": "Monthly",
+              "unit": "Month"
+            },
+            {
+              "chargeExcludingGst": 2.0012,
+              "chargeIncludingGst": 2.30,
+              "billFrequency": "Weekly",
+              "unit": "Week"
+            },
+            {
+              "chargeExcludingGst": 4.0024,
+              "chargeIncludingGst": 4.60,
+              "billFrequency": "Fortnightly",
+              "unit": "Fortnight"
+            }
+          ],
+          "freeSecondsPerCall": null,
+          "freeSecondsPerPeriod": null,
+          "destinations": [],
+          "wifiRecommendations": [],
+          "dataCap": null,
+          "minutesLimit": null,
+          "textLimit": null,
+          "groupTag": null,
+          "isGroupLeader": false,
+          "maxGroupMemberCount": null,
+          "dataCategory": null,
+          "isGroupMember": false,
+          "isStandalone": true,
+          "minimumContractTerm": 0,
+          "planDuration": null,
+          "dataCapDescription": null,
+          "callingMinsDescription": null,
+          "textsDescription": null,
+          "additionalDescriptions": [],
+          "supportedPlanKeys": [],
+          "marketingDetails": null,
+          "companionTag": null,
+          "supportedCompanionTags": null
+        }
+      ]
+    }
+  ],
+  "hardwareProducts": [
+    {
+      "hardwareProductKey": "2degreesWBB_SIM_2D",
+      "hardwareProductDescription": "WBB SIM Card",
+      "hardwareProductExtendedDescription": "2degrees WBB SIM",
+      "hardwareProductMake": "2degrees",
+      "hardwareProductModel": "WBB_SIM_2D",
+      "hardwareProductType": "SIM Card",
+      "rrpExcludingGst": 0.0000,
+      "rrpIncludingGst": 0.00,
+      "deliveryChargeOverrideExcludingGst": null,
+      "deliveryChargeOverrideIncludingGst": null,
+      "purchaseType": "Sales",
+      "supportedCoreProductBroadbandCategories": [
+        "WBB_4G",
+        "WBB_5G"
+      ],
+      "supportedCoreProductVoiceCategories": [],
+      "hardwareAvailableTo": []
+    },
+    {
+      "hardwareProductKey": "NetCommNF18MESH_2D",
+      "hardwareProductDescription": "NF18MESH Modem Rental",
+      "hardwareProductExtendedDescription": "NF18MESH DSL Modem",
+      "hardwareProductMake": "NetComm",
+      "hardwareProductModel": "NF18MESH_2D",
+      "hardwareProductType": "Router",
+      "rrpExcludingGst": 0.0000,
+      "rrpIncludingGst": 0.00,
+      "deliveryChargeOverrideExcludingGst": null,
+      "deliveryChargeOverrideIncludingGst": null,
+      "purchaseType": "Rental",
+      "supportedCoreProductBroadbandCategories": [
+        "ADSL",
+        "VDSL"
+      ],
+      "supportedCoreProductVoiceCategories": [
+        "SIPPOTS"
+      ],
+      "hardwareAvailableTo": [
+        {
+          "coreComponentPlanKey": "2d_access_EUBA0_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 12,
+              "coreProductMaxContractLength": 23,
+              "chargeExcludingGst": 0.0000,
+              "chargeIncludingGst": 0.00,
+              "rentalCharges": [
+                {
+                  "chargeExcludingGst": 4.3478,
+                  "chargeIncludingGst": 5.00,
+                  "billFrequency": "Monthly",
+                  "unit": "Month"
+                },
+                {
+                  "chargeExcludingGst": 1.0000,
+                  "chargeIncludingGst": 1.15,
+                  "billFrequency": "Weekly",
+                  "unit": "Week"
+                },
+                {
+                  "chargeExcludingGst": 2.0000,
+                  "chargeIncludingGst": 2.30,
+                  "billFrequency": "Fortnightly",
+                  "unit": "Fortnight"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_WVS0_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 12,
+              "coreProductMaxContractLength": 23,
+              "chargeExcludingGst": 0.0000,
+              "chargeIncludingGst": 0.00,
+              "rentalCharges": [
+                {
+                  "chargeExcludingGst": 4.3478,
+                  "chargeIncludingGst": 5.00,
+                  "billFrequency": "Monthly",
+                  "unit": "Month"
+                },
+                {
+                  "chargeExcludingGst": 1.0000,
+                  "chargeIncludingGst": 1.15,
+                  "billFrequency": "Weekly",
+                  "unit": "Week"
+                },
+                {
+                  "chargeExcludingGst": 2.0000,
+                  "chargeIncludingGst": 2.30,
+                  "billFrequency": "Fortnightly",
+                  "unit": "Fortnight"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hardwareProductKey": "NetgearRBR350_2D",
+      "hardwareProductDescription": "Netgear Orbi Wi-Fi 6 Router Rental",
+      "hardwareProductExtendedDescription": "Orbi Router (RBR350)",
+      "hardwareProductMake": "Netgear",
+      "hardwareProductModel": "RBR350_2D",
+      "hardwareProductType": "Router",
+      "rrpExcludingGst": 0.0000,
+      "rrpIncludingGst": 0.00,
+      "deliveryChargeOverrideExcludingGst": null,
+      "deliveryChargeOverrideIncludingGst": null,
+      "purchaseType": "Rental",
+      "supportedCoreProductBroadbandCategories": [
+        "UFB1000/500",
+        "UFB300/100"
+      ],
+      "supportedCoreProductVoiceCategories": [
+        "SIPONT"
+      ],
+      "hardwareAvailableTo": [
+        {
+          "coreComponentPlanKey": "2d_access_NGA1000/500_SIPONT_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 12,
+              "coreProductMaxContractLength": 23,
+              "chargeExcludingGst": 0.0000,
+              "chargeIncludingGst": 0.00,
+              "rentalCharges": [
+                {
+                  "chargeExcludingGst": 4.3478,
+                  "chargeIncludingGst": 5.00,
+                  "billFrequency": "Monthly",
+                  "unit": "Month"
+                },
+                {
+                  "chargeExcludingGst": 1.0000,
+                  "chargeIncludingGst": 1.15,
+                  "billFrequency": "Weekly",
+                  "unit": "Week"
+                },
+                {
+                  "chargeExcludingGst": 2.0000,
+                  "chargeIncludingGst": 2.30,
+                  "billFrequency": "Fortnightly",
+                  "unit": "Fortnight"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_NGA1000/500_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 12,
+              "coreProductMaxContractLength": 23,
+              "chargeExcludingGst": 0.0000,
+              "chargeIncludingGst": 0.00,
+              "rentalCharges": [
+                {
+                  "chargeExcludingGst": 4.3478,
+                  "chargeIncludingGst": 5.00,
+                  "billFrequency": "Monthly",
+                  "unit": "Month"
+                },
+                {
+                  "chargeExcludingGst": 1.0000,
+                  "chargeIncludingGst": 1.15,
+                  "billFrequency": "Weekly",
+                  "unit": "Week"
+                },
+                {
+                  "chargeExcludingGst": 2.0000,
+                  "chargeIncludingGst": 2.30,
+                  "billFrequency": "Fortnightly",
+                  "unit": "Fortnight"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_NGA300/100_SIPONT_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 12,
+              "coreProductMaxContractLength": 23,
+              "chargeExcludingGst": 0.0000,
+              "chargeIncludingGst": 0.00,
+              "rentalCharges": [
+                {
+                  "chargeExcludingGst": 4.3478,
+                  "chargeIncludingGst": 5.00,
+                  "billFrequency": "Monthly",
+                  "unit": "Month"
+                },
+                {
+                  "chargeExcludingGst": 1.0000,
+                  "chargeIncludingGst": 1.15,
+                  "billFrequency": "Weekly",
+                  "unit": "Week"
+                },
+                {
+                  "chargeExcludingGst": 2.0000,
+                  "chargeIncludingGst": 2.30,
+                  "billFrequency": "Fortnightly",
+                  "unit": "Fortnight"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_NGA300/100_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 12,
+              "coreProductMaxContractLength": 23,
+              "chargeExcludingGst": 0.0000,
+              "chargeIncludingGst": 0.00,
+              "rentalCharges": [
+                {
+                  "chargeExcludingGst": 4.3478,
+                  "chargeIncludingGst": 5.00,
+                  "billFrequency": "Monthly",
+                  "unit": "Month"
+                },
+                {
+                  "chargeExcludingGst": 1.0000,
+                  "chargeIncludingGst": 1.15,
+                  "billFrequency": "Weekly",
+                  "unit": "Week"
+                },
+                {
+                  "chargeExcludingGst": 2.0000,
+                  "chargeIncludingGst": 2.30,
+                  "billFrequency": "Fortnightly",
+                  "unit": "Fortnight"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hardwareProductKey": "NetgearRBR350_Purchase_2D",
+      "hardwareProductDescription": "Netgear Orbi Router Purchase",
+      "hardwareProductExtendedDescription": "Orbi Router (RBR350) Purchase",
+      "hardwareProductMake": "Netgear",
+      "hardwareProductModel": "RBR350_Purchase_2D",
+      "hardwareProductType": "Router",
+      "rrpExcludingGst": 173.0400,
+      "rrpIncludingGst": 199.00,
+      "deliveryChargeOverrideExcludingGst": null,
+      "deliveryChargeOverrideIncludingGst": null,
+      "purchaseType": "Sales",
+      "supportedCoreProductBroadbandCategories": [
+        "UFB1000/500",
+        "UFB300/100",
+        "UFB50/10",
+        "UFB50/20"
+      ],
+      "supportedCoreProductVoiceCategories": [
+        "SIPONT"
+      ],
+      "hardwareAvailableTo": [
+        {
+          "coreComponentPlanKey": "2d_access_NGA1000/500_SIPONT_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 0,
+              "coreProductMaxContractLength": 99,
+              "chargeExcludingGst": 173.0400,
+              "chargeIncludingGst": 199.00,
+              "rentalCharges": []
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_NGA1000/500_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 0,
+              "coreProductMaxContractLength": 99,
+              "chargeExcludingGst": 173.0400,
+              "chargeIncludingGst": 199.00,
+              "rentalCharges": []
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_NGA300/100_SIPONT_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 0,
+              "coreProductMaxContractLength": 99,
+              "chargeExcludingGst": 173.0400,
+              "chargeIncludingGst": 199.00,
+              "rentalCharges": []
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_NGA300/100_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 0,
+              "coreProductMaxContractLength": 99,
+              "chargeExcludingGst": 173.0400,
+              "chargeIncludingGst": 199.00,
+              "rentalCharges": []
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_NGA50/10_SIPONT_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 0,
+              "coreProductMaxContractLength": 11,
+              "chargeExcludingGst": 173.0400,
+              "chargeIncludingGst": 199.00,
+              "rentalCharges": []
+            },
+            {
+              "coreProductMinContractLength": 12,
+              "coreProductMaxContractLength": 23,
+              "chargeExcludingGst": 173.0400,
+              "chargeIncludingGst": 199.00,
+              "rentalCharges": []
+            },
+            {
+              "coreProductMinContractLength": 24,
+              "coreProductMaxContractLength": 99,
+              "chargeExcludingGst": 173.0400,
+              "chargeIncludingGst": 199.00,
+              "rentalCharges": []
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_NGA50/10_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 0,
+              "coreProductMaxContractLength": 11,
+              "chargeExcludingGst": 173.0400,
+              "chargeIncludingGst": 199.00,
+              "rentalCharges": []
+            },
+            {
+              "coreProductMinContractLength": 12,
+              "coreProductMaxContractLength": 23,
+              "chargeExcludingGst": 173.0400,
+              "chargeIncludingGst": 199.00,
+              "rentalCharges": []
+            },
+            {
+              "coreProductMinContractLength": 24,
+              "coreProductMaxContractLength": 99,
+              "chargeExcludingGst": 173.0400,
+              "chargeIncludingGst": 199.00,
+              "rentalCharges": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hardwareProductKey": "TP-LinkHB810_2D",
+      "hardwareProductDescription": "2degrees Hyperfibre Router (HB810)",
+      "hardwareProductExtendedDescription": "Hyperfibre Router (HB810)",
+      "hardwareProductMake": "TP-Link",
+      "hardwareProductModel": "HB810_2D",
+      "hardwareProductType": "Router",
+      "rrpExcludingGst": 0.0000,
+      "rrpIncludingGst": 0.00,
+      "deliveryChargeOverrideExcludingGst": null,
+      "deliveryChargeOverrideIncludingGst": null,
+      "purchaseType": "Rental",
+      "supportedCoreProductBroadbandCategories": [
+        "UFB2000/2000",
+        "UFB4000/4000"
+      ],
+      "supportedCoreProductVoiceCategories": [],
+      "hardwareAvailableTo": [
+        {
+          "coreComponentPlanKey": "2d_access_NGA2000/2000_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 12,
+              "coreProductMaxContractLength": 23,
+              "chargeExcludingGst": 0.0000,
+              "chargeIncludingGst": 0.00,
+              "rentalCharges": []
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_NGA4000/4000_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 12,
+              "coreProductMaxContractLength": 23,
+              "chargeExcludingGst": 0.0000,
+              "chargeIncludingGst": 0.00,
+              "rentalCharges": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hardwareProductKey": "TP-LinkHB810_Purchase_2D",
+      "hardwareProductDescription": "Hyperfibre Router Purchase (HB810)",
+      "hardwareProductExtendedDescription": "Hyperfibre Router Purchase (HB810)",
+      "hardwareProductMake": "TP-Link",
+      "hardwareProductModel": "HB810_Purchase_2D",
+      "hardwareProductType": "Router",
+      "rrpExcludingGst": 520.8700,
+      "rrpIncludingGst": 599.00,
+      "deliveryChargeOverrideExcludingGst": null,
+      "deliveryChargeOverrideIncludingGst": null,
+      "purchaseType": "Sales",
+      "supportedCoreProductBroadbandCategories": [
+        "UFB2000/2000",
+        "UFB4000/4000"
+      ],
+      "supportedCoreProductVoiceCategories": [],
+      "hardwareAvailableTo": [
+        {
+          "coreComponentPlanKey": "2d_access_NGA2000/2000_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 0,
+              "coreProductMaxContractLength": 99,
+              "chargeExcludingGst": 520.8700,
+              "chargeIncludingGst": 599.00,
+              "rentalCharges": []
+            }
+          ]
+        },
+        {
+          "coreComponentPlanKey": "2d_access_NGA4000/4000_U_Nov2024",
+          "coreComponentPlanKeyRestricted": true,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 0,
+              "coreProductMaxContractLength": 99,
+              "chargeExcludingGst": 520.8700,
+              "chargeIncludingGst": 599.00,
+              "rentalCharges": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hardwareProductKey": "AVMRET_2D_Fritzbox7490",
+      "hardwareProductDescription": "Router only return - A3 Medium Bag",
+      "hardwareProductExtendedDescription": "AVM Router 7490 Return",
+      "hardwareProductMake": "AVM",
+      "hardwareProductModel": "RET_2D_Fritzbox7490",
+      "hardwareProductType": "Return Bag",
+      "rrpExcludingGst": 0.0000,
+      "rrpIncludingGst": 0.00,
+      "deliveryChargeOverrideExcludingGst": null,
+      "deliveryChargeOverrideIncludingGst": null,
+      "purchaseType": "Sales",
+      "supportedCoreProductBroadbandCategories": [],
+      "supportedCoreProductVoiceCategories": [],
+      "hardwareAvailableTo": [
+        {
+          "coreComponentPlanKey": null,
+          "coreComponentPlanKeyRestricted": false,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 0,
+              "coreProductMaxContractLength": 0,
+              "chargeExcludingGst": 0.0,
+              "chargeIncludingGst": 0.00,
+              "rentalCharges": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hardwareProductKey": "AVMRET_2D_Fritzbox7530",
+      "hardwareProductDescription": "Router only return - A3 Medium Bag",
+      "hardwareProductExtendedDescription": "AVM Router 7530 Return",
+      "hardwareProductMake": "AVM",
+      "hardwareProductModel": "RET_2D_Fritzbox7530",
+      "hardwareProductType": "Return Bag",
+      "rrpExcludingGst": 0.0000,
+      "rrpIncludingGst": 0.00,
+      "deliveryChargeOverrideExcludingGst": null,
+      "deliveryChargeOverrideIncludingGst": null,
+      "purchaseType": "Sales",
+      "supportedCoreProductBroadbandCategories": [],
+      "supportedCoreProductVoiceCategories": [],
+      "hardwareAvailableTo": [
+        {
+          "coreComponentPlanKey": null,
+          "coreComponentPlanKeyRestricted": false,
+          "contractPricing": [
+            {
+              "coreProductMinContractLength": 0,
+              "coreProductMaxContractLength": 0,
+              "chargeExcludingGst": 0.0,
+              "chargeIncludingGst": 0.00,
+              "rentalCharges": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fibreSummary": {
+    "fibreAvailable": true,
+    "fibreInstalled": true,
+    "fibreActive": false,
+    "consentRequired": false,
+    "consentStatus": "NotRequired",
+    "rightOfWay": true,
+    "buildingType": "SingleDwellingUnit",
+    "fibreEta": null,
+    "fibreInADay": false,
+    "ufbRegion": "Auckland"
+  },
+  "fibreDetails": {
+    "fibreCompanyOne": {
+      "fibreAvailable": true,
+      "fibreInstalled": false,
+      "fibreActive": false,
+      "onts": [],
+      "scorecard": {
+        "supports2Gbps": true,
+        "supports4Gbps": true,
+        "supports8Gbps": false
+      }
+    },
+    "fibreCompanyTwo": {
+      "fibreAvailable": false,
+      "fibreInstalled": false,
+      "fibreActive": false,
+      "onts": [],
+      "scorecard": {
+        "supports2Gbps": false,
+        "supports4Gbps": false,
+        "supports8Gbps": false
+      }
+    }
+  }
+}
