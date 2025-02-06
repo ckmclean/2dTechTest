@@ -20,6 +20,12 @@ Saying that, don't feel like you need to create something drastically
 unique either. Build what is comfortable to you and assume that this
 will be something either a customer or internal agent will be using.
 
+---
+
+# READ ALL INSTRUCTIONS BEFORE PROCEEDING WITH ANY WORK
+
+---
+
 # Address Qualification Test
 
 One of the fundamental concepts when connecting or making changes to
@@ -106,6 +112,9 @@ Once you have shown this availability, your task is complete.
 Please place your solution into your own Github account and send us a 
 public link to the code. 
 
+
+---
+
 ### Do not upload any branches or code to this repository 
 
 ---
@@ -119,6 +128,25 @@ both critical and non-critical values that you can use. The `/mocks`
 directory also contains dummy responses for both the address search and 
 qualification that you can build against, however your submitted 
 solution must use our proper APIs.
+
+## Things to consider
+
+* We expect this test to take an evening at most and would appreciate
+  the solution provided to us within 48 hours of delivery of these  
+  instructions.
+* Our focus is primarily on functionality, usability, and comprehension.
+* Make it look good, but don't feel like it has to be stunning - use a
+  framework like Bootstrap or any Material UI base if you wish, or you
+  can reference our own sites
+* Pay attention to the business groups provided. You may use any that 
+  you wish, however your presentation should match.
+* If you wish to go above and beyond, think about what other data you
+  could present to the customer that is genuinely relevant - look at 
+  what adds value, perhaps there's another layer you could expand upon?
+* Whatever you do, don't get lost in providing the most complete solution
+  beyond the requirements. Initiative is a great thing to show, but focus
+  on the goal of the test.
+  
 
 
 
